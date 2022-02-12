@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">TallerGIT</string>
     <string name="text_manu">Texto de Manu</string>
+    <string name="text_manu2">Otro Texto de Manu</string>
 </resources>
